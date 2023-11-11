@@ -1,8 +1,8 @@
 ### Dream of Electric Sheep :sheep:
 
 #### About me:
-Biomedical Engineer
-ML enthusiast & Python Developer
+* Biomedical Engineer
+* ML enthusiast & Python Developer
 <!--
 **PedroAMtz/PedroAMtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
