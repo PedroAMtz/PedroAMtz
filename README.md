@@ -1,8 +1,13 @@
 ### Dream of Electric Sheep :sheep:
+---
 
+![Wallpaper](cyberpunk_1.jpg)
+
+---
 #### About me:
-* Biomedical Engineer
+* Biomedical Engineer :microscope:
 * ML enthusiast & Python Developer
+* Computer vision engineer
 <!--
 **PedroAMtz/PedroAMtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
