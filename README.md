@@ -1,6 +1,6 @@
 ### Dream of Electric Sheep :sheep:
 ---
-[![MasterHead](https://imgs.search.brave.com/ilgm53KX1vjivtd4kjj61AUwnO4O9xBMXabQnWpK9X0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bGFuZ3dlaWxlZGlj/aC5uZXQvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTYvMTEvV2Fu/ZWVsbGFfMDEuZ2lm.gif)]
+![MasterHead](https://imgs.search.brave.com/ilgm53KX1vjivtd4kjj61AUwnO4O9xBMXabQnWpK9X0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bGFuZ3dlaWxlZGlj/aC5uZXQvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTYvMTEvV2Fu/ZWVsbGFfMDEuZ2lm.gif)
 <h1 align="center">Hi 👋, I'm Pedro Martínez</h1>
 <h3 align="center">Biomedical Engineer, AI & ML enthusiast, Python Developer</h3>
 
